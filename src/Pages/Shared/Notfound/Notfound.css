@@ -1,0 +1,11 @@
+.not{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+   vertical-align:middle;
+    
+}
+.not h1{
+    font-size:5rem ;
+    color:red ;
+}
